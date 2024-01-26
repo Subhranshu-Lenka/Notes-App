@@ -1,5 +1,5 @@
 const newBtn = document.getElementById("new-note");
-const notes = document.querySelector(".notes")
+const notes = document.querySelector(".notes");
 
 newBtn.addEventListener("click", createNote);
 
